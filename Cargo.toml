@@ -1,7 +1,7 @@
 [package]
 name = "ark-sa-server-manage-bot"
 version = "0.1.0"
-authors = ["Daisuke Yamamura <mucho613@gmail.com>]
+authors = ["Daisuke Yamamura <mucho613@gmail.com>"]
 edition = "2024"
 
 [dependencies]
