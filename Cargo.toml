@@ -5,3 +5,6 @@ authors = ["Daisuke Yamamura <mucho613@gmail.com>"]
 edition = "2024"
 
 [dependencies]
+serenity = "0.12.4"
+tokio = { version = "1.45.1", features = ["macros", "rt-multi-thread"] }
+toml = "0.8.23"
